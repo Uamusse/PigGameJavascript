@@ -8,6 +8,8 @@ Regras do jogo, em ingles kkkkkk... :) :) :)
 - The first player to reach 100 points on GLOBAL score wins the game
 
 
+
+Tradução do jogo:
 - O jogo tem 2 jogadores, jogando em rodadas;
 - Em cada rodada, o jogador lança um dado quantas vezes ele quiser. Cada resultado é adicionado na sua pontuação da rodada;
 - Mas, se um jogador lançar o dado e encontrar 1, toda a sua pontuação da rodada sera perdida. Depois disso, é a vez do outro jogador;
