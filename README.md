@@ -1,4 +1,4 @@
-# PigGame Javascript
+# PiGame Javascript
 Um jogo feito com javascript
 Regras do jogo, em (Ingles) mas tem a traducao abaixo.
 - The game has 2 players, playing in rounds
