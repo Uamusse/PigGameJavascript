@@ -15,3 +15,4 @@ O jogador pode escolher 'Manter', o que significa que sua pontuação ROUND é a
 
 - The first player to reach 100 points on GLOBAL score wins the game
 O primeiro jogador a atingir 100 pontos na pontuação GLOBAL vence o jogo
+
